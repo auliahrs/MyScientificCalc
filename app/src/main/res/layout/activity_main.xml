@@ -79,7 +79,7 @@
                         android:textColor="@color/orange">
                     </Button>
                     <Button
-                        android:id="@+id/openbracketBtn"
+                        android:id="@+id/opnBracBtn"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
@@ -89,7 +89,7 @@
                         android:textColor="@color/orange">
                     </Button>
                     <Button
-                        android:id="@+id/closebracketBtn"
+                        android:id="@+id/clsBracBtn"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
